@@ -1,4 +1,5 @@
-#PROJECTES PERSONALS FETS EN GRAU MITJA 
+---
+PROJECTES PERSONALS FETS EN GRAU MITJA 
 ---
 - [Projecte 1](https://github.com/davidballesteross/projecte2)
 
